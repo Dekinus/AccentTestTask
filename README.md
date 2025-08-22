@@ -7,3 +7,5 @@
 		<add name="DBConn" connectionString="Server=СЕРВЕР,1433;Database=БАЗА;User Id=ЛОГИН;Password=ПАРОЛЬ;" providerName="System.Data.SqlClient" />
 	</connectionStrings>
 ```
+
+Также можно проверить на тестовых данных -- init.sql + fill.sql
