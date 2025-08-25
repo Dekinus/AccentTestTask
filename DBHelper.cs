@@ -28,7 +28,7 @@ public class DBHelper
                     {
                         DataTable dt = new DataTable();
                         da.Fill(dt);
-                        Console.WriteLine($"Procedure {procName} returned {dt.Rows.Count} rows"); //
+                        //Console.WriteLine($"Procedure {procName} returned {dt.Rows.Count} rows"); 
                         return dt;
                     }
                 }

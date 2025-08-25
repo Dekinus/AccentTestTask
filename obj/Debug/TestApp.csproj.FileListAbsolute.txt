@@ -1,0 +1,16 @@
+C:\Users\Dekinus\source\repos\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Dekinus\source\repos\TestApp\bin\Debug\TestApp.exe
+C:\Users\Dekinus\source\repos\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Dekinus\source\repos\TestApp\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Dekinus\source\repos\TestApp\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Dekinus\source\repos\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\Dekinus\source\repos\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\Dekinus\source\repos\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\Dekinus\source\repos\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Dekinus\source\repos\TestApp\obj\Debug\TestApp.csproj.Up2Date
+C:\Users\Dekinus\source\repos\TestApp\obj\Debug\TestApp.exe
+C:\Users\Dekinus\source\repos\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Dekinus\source\repos\TestApp\obj\Debug\TestApp.exe.config
+C:\Users\Dekinus\source\repos\TestApp\obj\Debug\TestApp.Form1.resources
+C:\Users\Dekinus\source\repos\TestApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dekinus\source\repos\TestApp\bin\Debug\System.Configuration.ConfigurationManager.xml
